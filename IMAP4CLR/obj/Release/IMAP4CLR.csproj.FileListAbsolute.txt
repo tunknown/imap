@@ -1,0 +1,5 @@
+C:\work.sql\_github\damit\CLR\IMAP\IMAP4CLR\bin\Release\IMAP4CLR.dll
+C:\work.sql\_github\damit\CLR\IMAP\IMAP4CLR\bin\Release\IMAP4CLR.pdb
+C:\work.sql\_github\damit\CLR\IMAP\IMAP4CLR\obj\Release\ResolveAssemblyReference.cache
+C:\work.sql\_github\damit\CLR\IMAP\IMAP4CLR\obj\Release\IMAP4CLR.dll
+C:\work.sql\_github\damit\CLR\IMAP\IMAP4CLR\obj\Release\IMAP4CLR.pdb
